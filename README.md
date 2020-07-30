@@ -45,7 +45,7 @@ $ git clone https://github.com/Andre0n/Black-Box
 $ cd Black-Box
 ```
 
-## Rodando
+### Rodando
 
 ```
 $ "C:\Program Files\LOVE\love.exe" "C:\games\mygame"
