@@ -1,6 +1,6 @@
 # Black Box
 
-<img src="https://github.com/Andre0n/Black-Box/blob/master/assets/ico.png" width="100">
+<img src="https://github.com/Andre0n/Black-Box/blob/master/assets/Presentation.png" width="100">
 
 ## Sobre este Projeto
 
