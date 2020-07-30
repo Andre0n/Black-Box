@@ -47,6 +47,8 @@ $ cd Black-Box
 
 ### Rodando
 
+**Rodando o Projeto no Windows**
+
 ```
 $ "C:\Program Files\LOVE\love.exe" "C:\games\mygame"
 
