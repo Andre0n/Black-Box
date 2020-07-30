@@ -1,6 +1,5 @@
 # Black Box
-
-<img src="https://github.com/Andre0n/Black-Box/blob/master/assets/Presentation.png">
+<img src="https://github.com/Andre0n/Black-Box/blob/master/assets/c2.png">
 
 ## Sobre este Projeto
 
@@ -12,7 +11,7 @@ _"Compartilhar um pouco dos meus resultados depois de meses de estudo da linguag
 
 ## Por quê?
 
-Este projeto foi a últim avalição da disciplina de Algoritmos na Universidade onde eu curso Ciência da Computação. 
+Este projeto foi a última avalição da disciplina de Algoritmos na Universidade onde eu curso Ciência da Computação. 
 
 Ficarei feliz se me fornecerem algum feedback sobre o projeto, código, estrutura ou qualquer outra coisa que possa me tornar um desenvolvedor melhor.
 
